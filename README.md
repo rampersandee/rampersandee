@@ -1,3 +1,5 @@
+![My Image](images/my-image.png)
+
 <body>
     <article>
       <h1 align='center'>Greetings, loved ones.<br>
