@@ -1,6 +1,3 @@
-![My Image](layouts/github-layout.png)
-
-
 <body>
     <article>
       <h1 align='center'>Greetings, loved ones.<br>
