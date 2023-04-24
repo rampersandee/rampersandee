@@ -1,4 +1,5 @@
-![My Image](images/my-image.png)
+![My Image](layouts/github-layout.png)
+
 
 <body>
     <article>
